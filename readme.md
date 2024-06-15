@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/xjancarlo">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/jc-logo.png" alt="logo" width="130" height="100">
   </a>
@@ -60,7 +60,7 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
+- What is the project - The Project is about the different styles of Header and Footer
 - Whats the purpose
 - What are key components
 - What technology used and how it is used
