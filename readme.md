@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ This project is an interactive website dedicated to showcasing creative and functional header and footer designs for websites.
 </div>
 
 <br />
