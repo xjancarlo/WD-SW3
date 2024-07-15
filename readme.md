@@ -57,20 +57,34 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+### Header and Footer Gallery Project
+
+The Header and Footer Gallery project is a showcase of diverse header and footer designs, demonstrating the versatility and creativity in web design. This project features a gallery page displaying 10 unique header styles and 10 distinct footer styles, split evenly between static and animated designs. Each design is crafted using pure HTML and CSS, highlighting various techniques and aesthetic choices. Visitors can navigate through the gallery to explore the different styles, with each entry providing a visual feast and inspiration for web developers and designers. The project is structured with a clean and organized file system and includes a landing page with a welcoming title, subtitle, and navigation buttons to ensure an engaging and user-friendly experience.
 
 Guiding Question:
-- What is the project - The Project is about the different styles of Header and Footer
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+
+- What is the project?
+
+The Header and Footer Gallery project is a web-based showcase designed to display a variety of header and footer styles. It aims to present both static and animated designs, offering a comprehensive look at different web design approaches and techniques.
+
+- What's the purpose?
+
+The purpose of this project is to provide inspiration and practical examples for web designers and developers. By showcasing multiple header and footer styles, the project demonstrates the potential of HTML and CSS in creating visually appealing and functional web components.
+
+- What are the key components?
+
+Landing Page: Includes a title, subtitle, description, and navigation buttons to guide users.
+Header Gallery: Displays 5 different static header styles and 5 animated header styles.
+Footer Gallery: Features 5 different static footer styles and 5 animated footer styles.
+Interactive Navigation: Allows users to easily browse through the various designs.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- 5 Static Header
+- 5 Animated Header
+- 5 Static Footer
+- 5 Animated Footer
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -111,10 +125,3 @@ WD-ProjectName
 └─ index.html
 └─ readme.md
 ```
-
-## Resources
-
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
